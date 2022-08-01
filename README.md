@@ -1,5 +1,5 @@
 ### Hi there 👋🏾. Welcome!
-<b>WIP</b>
+<b><u>WIP</u></b>
 
 <!--
 **SomtochiUmeh/SomtochiUmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
